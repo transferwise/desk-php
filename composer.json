@@ -1,5 +1,5 @@
 {
-    "name": "bradfeehan/desk-php",
+    "name": "transferwise/desk-php",
     "description": "PHP client for Desk.com v2 API based on Guzzle",
     "keywords": ["desk", "desk.com", "assistly", "assistly.com", "api", "guzzle"],
     "license": "MIT",
